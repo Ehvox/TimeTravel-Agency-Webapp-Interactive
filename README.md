@@ -25,7 +25,7 @@ L'objectif était de créer une interface fluide et futuriste tout en intégrant
     * *Le Futur Cyberpunk (Néo-Tokyo 2099)*
 * **:sparkles: Landing Page Interactive** : Une interface moderne et réactive avec des animations fluides.
 
-## :tools: Stack Technique
+## Stack Technique
 
 Ce projet utilise une architecture moderne axée sur la performance et l'expérience développeur.
 
