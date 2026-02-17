@@ -20,9 +20,9 @@ L'objectif était de créer une interface fluide et futuriste tout en intégrant
 * **:robot: Chatbot IA Conversationnel (Chrono-Guide)** : Un assistant virtuel intelligent capable de répondre aux questions sur les époques, les paradoxes temporels et de guider l'utilisateur.
 * **:dart: Recommandations Personnalisées** : L'IA analyse les envies de l'utilisateur pour lui suggérer l'époque idéale (ex: "J'aime l'architecture et les toges" -> Rome Antique).
 * Galerie Temporelle : Présentation immersive de 3 destinations phares :
-    * *Le Jurassique (Observer les dinosaures)*
-    * *L'Égypte Antique (Construction des pyramides)*
-    * *Le Futur Cyberpunk (Néo-Tokyo 2099)*
+    * **Paris, 1889** : Assistez à l'inauguration de la Tour Eiffel lors de l'Exposition Universelle.
+    * **Le Crétacé** : Un safari préhistorique au milieu des géants de la fin de l'ère des dinosaures.
+    * **Florence, 1504** : Plongez au cœur de la Renaissance italienne, à l'époque où Michel-Ange dévoile son David.
 * **:sparkles: Landing Page Interactive** : Une interface moderne et réactive avec des animations fluides.
 
 ## Stack Technique
