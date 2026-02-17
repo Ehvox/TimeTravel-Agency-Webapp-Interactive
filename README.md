@@ -1,7 +1,5 @@
 # :hourglass_flowing_sand: TimeTravel Agency
 
-![TimeTravel Agency Banner](https://via.placeholder.com/1200x400?text=TimeTravel+Agency+Banner)
-
 > **Bienvenue chez TimeTravel Agency.**
 > Une application web immersive pour une agence de voyage temporel fictive, propulsée par l'Intelligence Artificielle.
 
